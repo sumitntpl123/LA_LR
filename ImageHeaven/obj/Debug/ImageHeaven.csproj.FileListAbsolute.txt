@@ -1,0 +1,414 @@
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\ImageHeaven.dll.config
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\ImageHeaven.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\ImageHeaven.pdb
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\bzer-data-entry.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\ClearImageNet.70.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\itextsharp.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\LItems.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\nControls.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\NovaNet.Utils.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\NovaNet.wfe.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Reporting.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Zen.Barcode.Core.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\PhoneticBengaliInput.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\DgvFilterPopup.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Microsoft.mshtml.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\bzer-data-entry.pdb
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\bzer-data-entry.dll.config
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Reporting.pdb
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Reporting.dll.config
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\LItems.pdb
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\LItems.dll.config
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\nControls.pdb
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\NovaNet.Utils.pdb
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\NovaNet.Utils.dll.config
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\NovaNet.wfe.pdb
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\NovaNet.wfe.dll.config
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\Amit_Manna_Work\bzer\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.csproj.AssemblyReference.cache
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.About.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.aeConfiguration.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.aeCustomExp.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.aeFQC.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.aeImageQC.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.aeIndexing.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.aeLicQa.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.Customization.Resources.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.Customization.Strings.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.DocumentTypeListView.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\DockSample.FloatToolbox.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmBulkStateChange.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmCustExc.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmDelivery.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmHelp.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmMandPolicyList.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmOutwardSubmission.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmLocConfig.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmPDFView.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmBarcode.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmBundleSubmit.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmBundleUpload.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmDataImport.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmExport.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmMain.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmPolicyLog.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmProductionCount.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmProject.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.frmTargetIndexForMove.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.Properties.Resources.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.SelectionBox.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\DockSample.ToolWindow.resources
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.csproj.GenerateResource.cache
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.csproj.CoreCompileInputs.cache
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHea.70D53D1C.Up2Date
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.dll
+D:\Amit_Manna_Work\bzer\ImageHeaven\obj\Debug\ImageHeaven.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\ImageHeaven.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\ImageHeaven.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\ImageHeaven.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\bzer-data-entry.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\ClearImageNet.70.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\itextsharp.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\LItems.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Reporting.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\PhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Microsoft.mshtml.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\bzer-data-entry.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\bzer-data-entry.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Reporting.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Reporting.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\LItems.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\LItems.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.About.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.aeConfiguration.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.aeCustomExp.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.aeFQC.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.aeImageQC.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.aeIndexing.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.aeLicQa.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.Customization.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.Customization.Strings.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.DocumentTypeListView.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\DockSample.FloatToolbox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmBulkStateChange.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmCustExc.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmDelivery.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmHelp.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmMandPolicyList.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmMouzaExport.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmOutwardSubmission.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmLocConfig.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmPDFView.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmBarcode.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmBundleSubmit.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmBundleUpload.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmDataImport.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmExport.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmMain.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmPolicyLog.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmProductionCount.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmProject.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.frmTargetIndexForMove.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.Properties.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.SelectionBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\DockSample.ToolWindow.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.csproj.CopyComplete
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\obj\Debug\ImageHeaven.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ImageHeaven.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ImageHeaven.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ImageHeaven.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\bzer-data-entry.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ClearImageNet.70.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\itextsharp.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\LItems.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Reporting.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\PhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.mshtml.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\bzer-data-entry.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\bzer-data-entry.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Reporting.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Reporting.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\LItems.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\LItems.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.About.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeConfiguration.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeCustomExp.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeFQC.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeImageQC.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeIndexing.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeLicQa.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.Customization.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.Customization.Strings.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.DocumentTypeListView.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\DockSample.FloatToolbox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBulkStateChange.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmCustExc.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmDelivery.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmHelp.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmMandPolicyList.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmMouzaExport.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmOutwardSubmission.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmLocConfig.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmPDFView.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBarcode.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBundleSubmit.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBundleUpload.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmDataImport.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmExport.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmMain.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmPolicyLog.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmProductionCount.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmProject.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmTargetIndexForMove.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.Properties.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.SelectionBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\DockSample.ToolWindow.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.csproj.CopyComplete
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ImageHeaven.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ImageHeaven.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ImageHeaven.pdb
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\bzer-data-entry.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\ClearImageNet.70.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\itextsharp.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\LItems.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Reporting.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Zen.Barcode.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\PhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.mshtml.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\bzer-data-entry.pdb
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\bzer-data-entry.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Reporting.pdb
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Reporting.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\LItems.pdb
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\LItems.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.Utils.pdb
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.Utils.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.xml
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.About.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeConfiguration.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeCustomExp.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeFQC.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeImageQC.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeIndexing.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.aeLicQa.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.Customization.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.Customization.Strings.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.DocumentTypeListView.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\DockSample.FloatToolbox.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBulkStateChange.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmCustExc.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmDelivery.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmHelp.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmMandPolicyList.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmMouzaExport.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmOutwardSubmission.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmLocConfig.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmPDFView.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBarcode.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBundleSubmit.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmBundleUpload.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmDataImport.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmExport.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmMain.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmPolicyLog.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmProductionCount.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmProject.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.frmTargetIndexForMove.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.Properties.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.SelectionBox.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\DockSample.ToolWindow.resources
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHea.70D53D1C.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.dll
+D:\SAGNIK\02-04-2026_backup\LA\ImageHeaven\obj\Debug\ImageHeaven.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\ImageHeaven.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\ImageHeaven.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\ImageHeaven.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\bzer-data-entry.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\ClearImageNet.70.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\itextsharp.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\LItems.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Reporting.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Zen.Barcode.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\PhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Microsoft.mshtml.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\bzer-data-entry.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\bzer-data-entry.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Reporting.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Reporting.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\LItems.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\LItems.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\NovaNet.Utils.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\NovaNet.Utils.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Syncfusion.Compression.Base.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.About.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.aeConfiguration.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.aeCustomExp.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.aeFQC.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.aeImageQC.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.aeIndexing.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.aeLicQa.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.Customization.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.Customization.Strings.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.DocumentTypeListView.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\DockSample.FloatToolbox.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmBulkStateChange.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmCustExc.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmDelivery.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmHelp.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmMandPolicyList.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmMouzaExport.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmOutwardSubmission.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmLocConfig.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmPDFView.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmBarcode.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmBundleSubmit.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmBundleUpload.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmDataImport.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmExport.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmMain.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmPolicyLog.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmProductionCount.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmProject.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.frmTargetIndexForMove.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.Properties.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.SelectionBox.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\DockSample.ToolWindow.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\ImageHeaven\obj\Debug\ImageHeaven.csproj.CopyComplete

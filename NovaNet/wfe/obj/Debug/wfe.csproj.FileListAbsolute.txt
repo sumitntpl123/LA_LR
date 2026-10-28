@@ -1,0 +1,79 @@
+D:\Amit_Manna_Work\bzer\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll.config
+D:\Amit_Manna_Work\bzer\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll
+D:\Amit_Manna_Work\bzer\NovaNet\wfe\bin\Debug\NovaNet.wfe.pdb
+D:\Amit_Manna_Work\bzer\NovaNet\wfe\obj\Debug\wfe.csproj.AssemblyReference.cache
+D:\Amit_Manna_Work\bzer\NovaNet\wfe\obj\Debug\wfe.csproj.CoreCompileInputs.cache
+D:\Amit_Manna_Work\bzer\NovaNet\wfe\obj\Debug\NovaNet.wfe.dll
+D:\Amit_Manna_Work\bzer\NovaNet\wfe\obj\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\obj\Debug\wfe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\obj\Debug\wfe.csproj.CopyComplete
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\obj\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\obj\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\obj\Debug\wfe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\wfe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\wfe.csproj.CopyComplete
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\wfe.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\wfe.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\wfe.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\wfe.csproj.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\wfe\obj\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\obj\Debug\wfe.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\obj\Debug\wfe.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\obj\Debug\wfe.csproj.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\obj\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\wfe\obj\Debug\NovaNet.wfe.pdb

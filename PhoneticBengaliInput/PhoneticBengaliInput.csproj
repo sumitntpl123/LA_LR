@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ABF4B77A-CDEF-4528-AF39-5CF8B99049F7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>PhoneticBengaliInput</RootNamespace>
+    <AssemblyName>PhoneticBengaliInput</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BengaliFontCollection.cs" />
+    <Compile Include="IBengaliPhoneticParser.cs" />
+    <Compile Include="PBIComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PBIComboBox.Designer.cs">
+      <DependentUpon>PBIComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBIControl.cs" />
+    <Compile Include="PBIKeyboardLayoutHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PBIKeyboardLayoutHelp.Designer.cs">
+      <DependentUpon>PBIKeyboardLayoutHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBITextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PBITextBox.Designer.cs">
+      <DependentUpon>PBITextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="PBIComboBox.resx">
+      <DependentUpon>PBIComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PBIKeyboardLayoutHelp.resx">
+      <DependentUpon>PBIKeyboardLayoutHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PBITextBox.resx">
+      <DependentUpon>PBITextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fonts\NotoSerifBengali-Regular.ttf" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboardmanual.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

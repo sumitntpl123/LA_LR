@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F05F248-E2BA-4CDB-8628-1D66098BA11D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>bzer_data_entry</RootNamespace>
+    <AssemblyName>bzer-data-entry</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\lib\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="src\BatchData.cs" />
+    <Compile Include="src\DataEntryNavigationController.cs" />
+    <Compile Include="src\FilesEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\FilesEdit.Designer.cs">
+      <DependentUpon>FilesEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\MasterData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\AddNameTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\AddNameTitle.Designer.cs">
+      <DependentUpon>AddNameTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\AddNewEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\AddNewEntry.Designer.cs">
+      <DependentUpon>AddNewEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\AddUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="src\AddUserControl.Designer.cs">
+      <DependentUpon>AddUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\AddUserControlNameTitle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="src\AddUserControlNameTitle.Designer.cs">
+      <DependentUpon>AddUserControlNameTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\EntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\EntryForm.Designer.cs">
+      <DependentUpon>EntryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\EntryFormBuilder.cs" />
+    <Compile Include="src\frmBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\frmBatch.Designer.cs">
+      <DependentUpon>frmBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\frmBundleSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\frmBundleSummary.Designer.cs">
+      <DependentUpon>frmBundleSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\frmEntrySummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\frmEntrySummary.Designer.cs">
+      <DependentUpon>frmEntrySummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\MasterDataUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\MasterDataUpdateForm.Designer.cs">
+      <DependentUpon>MasterDataUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\MasterUpdateFormBuilder.cs" />
+    <Compile Include="src\Metadata.cs" />
+    <Compile Include="src\SummaryFormBuilder.cs" />
+    <Compile Include="src\ValidationHelper.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="src\AddNameTitle.resx">
+      <DependentUpon>AddNameTitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\AddNewEntry.resx">
+      <DependentUpon>AddNewEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\AddUserControl.resx">
+      <DependentUpon>AddUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\AddUserControlNameTitle.resx">
+      <DependentUpon>AddUserControlNameTitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\EntryForm.resx">
+      <DependentUpon>EntryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\FilesEdit.resx">
+      <DependentUpon>FilesEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\frmBatch.resx">
+      <DependentUpon>frmBatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\frmBundleSummary.resx">
+      <DependentUpon>frmBundleSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\frmEntrySummary.resx">
+      <DependentUpon>frmEntrySummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\MasterDataUpdateForm.resx">
+      <DependentUpon>MasterDataUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LItems\LItems.csproj">
+      <Project>{ba9e5332-adc1-43d6-958e-4244db23f412}</Project>
+      <Name>LItems</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\nControls\nControls.csproj">
+      <Project>{0643997c-a50c-469d-806d-6d7f72e80693}</Project>
+      <Name>nControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NovaNet\Utils\Utils.csproj">
+      <Project>{23ba0929-405a-470d-bdea-1000d9eedc3a}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NovaNet\wfe\wfe.csproj">
+      <Project>{02d137af-1d68-470e-843d-233e0e9e585f}</Project>
+      <Name>wfe</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my work 4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AvroPhoneticBengaliInput">
+      <Version>0.1.0</Version>
+      <IncludeAssets>all</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Web.WebView2">
+      <Version>1.0.3965-prerelease</Version>
+    </PackageReference>
+    <PackageReference Include="PhoneticBengaliInput">
+      <Version>0.2.1</Version>
+      <IncludeAssets>all</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,55 @@
+name: Create nuget package
+on: 
+  push:
+    branches:
+      - "dev"
+permissions: write-all
+jobs:
+  create-nuget-package:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Spit Short sha
+        id: sha_var
+        uses: benjlevesque/short-sha@v3.0
+        with:
+          length: 7
+      - name: Create tag
+        uses: actions/github-script@v5
+        with:
+          script: |
+            github.rest.git.createRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: 'refs/tags/${{steps.sha_var.outputs.sha}}',
+                sha: context.sha
+            })
+      - uses: microsoft/setup-msbuild@v2
+      - uses: nuget/setup-nuget@v2
+      - name: Install nuget dependencies
+        shell: pwsh
+        run: nuget restore PhoneticBengaliInput.sln
+      - name: Build Debug
+        shell: pwsh
+        run: msbuild PhoneticBengaliInput.sln -t:rebuild -property:Configuration=Debug
+      - name: Create nuget package
+        shell: pwsh
+        run: |
+          cd AvroPhoneticBengaliInput
+          nuget pack AvroBengaliPhoneticParser.csproj
+          cd ..\PhoneticBengaliInput
+          nuget pack PhoneticBengaliInput.csproj
+          cd ..
+      - name: Create release archive
+        shell: pwsh
+        run: |
+          compress-archive AvroPhoneticBengaliInput\AvroPhoneticBengaliInput*.nupkg, PhoneticBengaliInput\PhoneticBengaliInput*.nupkg release.zip
+      - name: Upload release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          artifacts: "release.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{steps.sha_var.outputs.sha}}
+      
+  
+    

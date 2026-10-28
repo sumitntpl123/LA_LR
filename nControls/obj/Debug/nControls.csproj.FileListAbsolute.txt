@@ -1,0 +1,119 @@
+D:\Amit_Manna_Work\bzer\nControls\bin\Debug\nControls.dll
+D:\Amit_Manna_Work\bzer\nControls\bin\Debug\nControls.pdb
+D:\Amit_Manna_Work\bzer\nControls\bin\Debug\DgvFilterPopup.dll
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.csproj.AssemblyReference.cache
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.deCheckBox.resources
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.deComboBox.resources
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.deDateBox.resources
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.deRadioButton.resources
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.deTextBox.resources
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.rptViewer.resources
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.csproj.GenerateResource.cache
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.csproj.CoreCompileInputs.cache
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.csproj.Up2Date
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.dll
+D:\Amit_Manna_Work\bzer\nControls\obj\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.deCheckBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.deComboBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.deDateBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.deRadioButton.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.deTextBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.rptViewer.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.csproj.CopyComplete
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\obj\Debug\nControls.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deCheckBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deComboBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deDateBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deRadioButton.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deTextBox.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.rptViewer.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.CopyComplete
+C:\Users\USER\Desktop\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deCheckBox.resources
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deComboBox.resources
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deDateBox.resources
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deRadioButton.resources
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.deTextBox.resources
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.rptViewer.resources
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.csproj.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA\nControls\obj\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.deCheckBox.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.deComboBox.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.deDateBox.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.deRadioButton.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.deTextBox.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.rptViewer.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.csproj.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\nControls\obj\Debug\nControls.pdb

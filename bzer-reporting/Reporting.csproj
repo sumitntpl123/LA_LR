@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FF66447C-725F-4E90-AD6A-363EDC04A175}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Reporting</RootNamespace>
+    <AssemblyName>Reporting</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\lib\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <PackageReference Include="AvroPhoneticBengaliInput">
+      <Version>0.1.0</Version>
+      <IncludeAssets>all</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Web.WebView2">
+      <Version>1.0.3965-prerelease</Version>
+    </PackageReference>
+    <PackageReference Include="PhoneticBengaliInput">
+      <Version>0.2.1</Version>
+      <IncludeAssets>all</IncludeAssets>
+    </PackageReference>
+    <Reference Include="Syncfusion.Compression.Base">
+      <HintPath>..\lib\Syncfusion.Compression.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.OCRProcessor.Base">
+      <HintPath>..\lib\Syncfusion.OCRProcessor.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Pdf.Base">
+      <HintPath>..\lib\Syncfusion.Pdf.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractExporter.cs" />
+    <Compile Include="Exporter.cs" />
+    <Compile Include="frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDashboard.Designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDetailDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetailDashboard.Designer.cs">
+      <DependentUpon>frmDetailDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJobDistribution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJobDistribution.Designer.cs">
+      <DependentUpon>frmJobDistribution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhatianMismatchUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KhatianMismatchUserControl.Designer.cs">
+      <DependentUpon>KhatianMismatchUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOutwardReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutwardReport.Designer.cs">
+      <DependentUpon>frmOutwardReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProduction.Designer.cs">
+      <DependentUpon>frmProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSite.Designer.cs">
+      <DependentUpon>frmSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUAT.Designer.cs">
+      <DependentUpon>frmUAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserReport.Designer.cs">
+      <DependentUpon>frmUserReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportingData.cs" />
+    <Compile Include="UATBatchDetailsPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UATBatchDetailsPanel.Designer.cs">
+      <DependentUpon>UATBatchDetailsPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetailDashboard.resx">
+      <DependentUpon>frmDetailDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJobDistribution.resx">
+      <DependentUpon>frmJobDistribution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhatianMismatchUserControl.resx">
+      <DependentUpon>KhatianMismatchUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOutwardReport.resx">
+      <DependentUpon>frmOutwardReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProduction.resx">
+      <DependentUpon>frmProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSite.resx">
+      <DependentUpon>frmSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUAT.resx">
+      <DependentUpon>frmUAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserReport.resx">
+      <DependentUpon>frmUserReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UATBatchDetailsPanel.resx">
+      <DependentUpon>UATBatchDetailsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bzer-data-entry\DataEntry.csproj">
+      <Project>{8f05f248-e2ba-4cdb-8628-1d66098ba11d}</Project>
+      <Name>DataEntry</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LItems\LItems.csproj">
+      <Project>{ba9e5332-adc1-43d6-958e-4244db23f412}</Project>
+      <Name>LItems</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\nControls\nControls.csproj">
+      <Project>{0643997c-a50c-469d-806d-6d7f72e80693}</Project>
+      <Name>nControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NovaNet\Utils\Utils.csproj">
+      <Project>{23ba0929-405a-470d-bdea-1000d9eedc3a}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NovaNet\wfe\wfe.csproj">
+      <Project>{02d137af-1d68-470e-843d-233e0e9e585f}</Project>
+      <Name>wfe</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

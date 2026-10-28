@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{211142D6-3571-45DE-B1E4-248BA9332C8B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ImageHeaven</RootNamespace>
+    <AssemblyName>ImageHeaven</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AvroPhoneticBengaliInput, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AvroPhoneticBengaliInput.0.1.0\lib\net48\AvroPhoneticBengaliInput.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ClearImageNet.70, Version=7.0.0.0, Culture=neutral, PublicKeyToken=71e5888be264aae0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\ClearImageNet.70.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\lib\Interop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ClearImage, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\lib\Interop.ClearImage.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\lib\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Web.WebView2.Core, Version=1.0.3965.0, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.WebView2.1.0.3965-prerelease\lib\net462\Microsoft.Web.WebView2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.WinForms, Version=1.0.3965.0, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.WebView2.1.0.3965-prerelease\lib\net462\Microsoft.Web.WebView2.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.Wpf, Version=1.0.3965.0, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.WebView2.1.0.3965-prerelease\lib\net462\Microsoft.Web.WebView2.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Compression.Base">
+      <HintPath>..\lib\Syncfusion.Compression.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.OCRProcessor.Base">
+      <HintPath>..\lib\Syncfusion.OCRProcessor.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Pdf.Base">
+      <HintPath>..\lib\Syncfusion.Pdf.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\lib\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Zen.Barcode.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeConfiguration.Designer.cs">
+      <DependentUpon>aeConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeCustomExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeCustomExp.designer.cs">
+      <DependentUpon>aeCustomExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeFQC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeFQC.Designer.cs">
+      <DependentUpon>aeFQC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeImageQC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeImageQC.Designer.cs">
+      <DependentUpon>aeImageQC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeIndexing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeIndexing.Designer.cs">
+      <DependentUpon>aeIndexing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeLicQa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeLicQa.Designer.cs">
+      <DependentUpon>aeLicQa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customization\DockHelper.cs" />
+    <Compile Include="Customization\Extender.cs" />
+    <Compile Include="Customization\InertButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customization\Resources.Designer.cs" />
+    <Compile Include="Customization\Strings.Designer.cs" />
+    <Compile Include="Customization\VS2003AutoHideStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customization\VS2003DockPaneCaption.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customization\VS2003DockPaneStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DocTypeStateChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocumentTypeListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DocumentTypeListView.Designer.cs">
+      <DependentUpon>DocumentTypeListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FloatToolbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FloatToolbox.designer.cs">
+      <DependentUpon>FloatToolbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBulkStateChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBulkStateChange.Designer.cs">
+      <DependentUpon>frmBulkStateChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustExc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustExc.Designer.cs">
+      <DependentUpon>frmCustExc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDelivery.Designer.cs">
+      <DependentUpon>frmDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp.Designer.cs">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMandPolicyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMandPolicyList.Designer.cs">
+      <DependentUpon>frmMandPolicyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMouzaExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMouzaExport.Designer.cs">
+      <DependentUpon>frmMouzaExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOutwardSubmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutwardSubmission.Designer.cs">
+      <DependentUpon>frmOutwardSubmission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocConfig.Designer.cs">
+      <DependentUpon>frmLocConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPDFView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPDFView.Designer.cs">
+      <DependentUpon>frmPDFView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBarcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBarcode.Designer.cs">
+      <DependentUpon>frmBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBundleSubmit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBundleSubmit.Designer.cs">
+      <DependentUpon>frmBundleSubmit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBundleUpload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBundleUpload.Designer.cs">
+      <DependentUpon>frmBundleUpload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataImport.designer.cs">
+      <DependentUpon>frmDataImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExport.Designer.cs">
+      <DependentUpon>frmExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPolicyLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPolicyLog.designer.cs">
+      <DependentUpon>frmPolicyLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductionCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductionCount.designer.cs">
+      <DependentUpon>frmProductionCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProject.Designer.cs">
+      <DependentUpon>frmProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTargetIndexForMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTargetIndexForMove.Designer.cs">
+      <DependentUpon>frmTargetIndexForMove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HealthCheck.cs" />
+    <Compile Include="ihConstants.cs" />
+    <Compile Include="ImageQCStateChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logic\aeFQC.cs" />
+    <Compile Include="Logic\aeLicQa.cs" />
+    <Compile Include="Logic\BaseLogic.cs" />
+    <Compile Include="Logic\DocumentTypeStore.cs" />
+    <Compile Include="Logic\frmExport.cs" />
+    <Compile Include="Logic\aeImageQC.cs" />
+    <Compile Include="Logic\aeIndexing.cs" />
+    <Compile Include="Logic\frmBundleUpload.cs" />
+    <Compile Include="Logic\frmMouzaExport.cs" />
+    <Compile Include="Logic\GetItems.cs" />
+    <Compile Include="Logic\UpdateStatus.cs" />
+    <Compile Include="PopupPoint.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectionBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectionBox.Designer.cs">
+      <DependentUpon>SelectionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolWindow.designer.cs">
+      <DependentUpon>ToolWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Version.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeConfiguration.resx">
+      <DependentUpon>aeConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeCustomExp.resx">
+      <DependentUpon>aeCustomExp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeFQC.resx">
+      <DependentUpon>aeFQC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeImageQC.resx">
+      <DependentUpon>aeImageQC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeIndexing.resx">
+      <DependentUpon>aeIndexing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeLicQa.resx">
+      <DependentUpon>aeLicQa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customization\Resources.resx" />
+    <EmbeddedResource Include="Customization\Strings.resx" />
+    <EmbeddedResource Include="DocumentTypeListView.resx">
+      <DependentUpon>DocumentTypeListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FloatToolbox.resx">
+      <DependentUpon>FloatToolbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBulkStateChange.resx">
+      <DependentUpon>frmBulkStateChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustExc.resx">
+      <DependentUpon>frmCustExc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDelivery.resx">
+      <DependentUpon>frmDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp.resx">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMandPolicyList.resx">
+      <DependentUpon>frmMandPolicyList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMouzaExport.resx">
+      <DependentUpon>frmMouzaExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOutwardSubmission.resx">
+      <DependentUpon>frmOutwardSubmission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocConfig.resx">
+      <DependentUpon>frmLocConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPDFView.resx">
+      <DependentUpon>frmPDFView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBarcode.resx">
+      <DependentUpon>frmBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBundleSubmit.resx">
+      <DependentUpon>frmBundleSubmit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBundleUpload.resx">
+      <DependentUpon>frmBundleUpload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataImport.resx">
+      <DependentUpon>frmDataImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExport.resx">
+      <DependentUpon>frmExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPolicyLog.resx">
+      <DependentUpon>frmPolicyLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductionCount.resx">
+      <DependentUpon>frmProductionCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProject.resx">
+      <DependentUpon>frmProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTargetIndexForMove.resx">
+      <DependentUpon>frmTargetIndexForMove.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectionBox.resx">
+      <DependentUpon>SelectionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolWindow.resx">
+      <DependentUpon>ToolWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my work 4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bzer-data-entry\DataEntry.csproj">
+      <Project>{8f05f248-e2ba-4cdb-8628-1d66098ba11d}</Project>
+      <Name>DataEntry</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\bzer-reporting\Reporting.csproj">
+      <Project>{ff66447c-725f-4e90-ad6a-363edc04a175}</Project>
+      <Name>Reporting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LItems\LItems.csproj">
+      <Project>{ba9e5332-adc1-43d6-958e-4244db23f412}</Project>
+      <Name>LItems</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\nControls\nControls.csproj">
+      <Project>{0643997c-a50c-469d-806d-6d7f72e80693}</Project>
+      <Name>nControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NovaNet\Utils\Utils.csproj">
+      <Project>{23ba0929-405a-470d-bdea-1000d9eedc3a}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NovaNet\wfe\wfe.csproj">
+      <Project>{02D137AF-1D68-470E-843D-233E0E9E585F}</Project>
+      <Name>wfe</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\abort.png" />
+    <Content Include="Resources\edit.png" />
+    <Content Include="Resources\minus.png" />
+    <Content Include="Resources\plus.png" />
+    <Content Include="Resources\reset.png" />
+    <Content Include="Resources\search.png" />
+    <Content Include="Resources\usb_stick.png" />
+    <Content Include="runtimes\win-arm64\native\WebView2Loader.dll" />
+    <Content Include="runtimes\win-x64\native\WebView2Loader.dll" />
+    <Content Include="runtimes\win-x86\native\WebView2Loader.dll" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.Web.WebView2.1.0.3965-prerelease\build\Microsoft.Web.WebView2.targets" Condition="Exists('..\packages\Microsoft.Web.WebView2.1.0.3965-prerelease\build\Microsoft.Web.WebView2.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Web.WebView2.1.0.3965-prerelease\build\Microsoft.Web.WebView2.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Web.WebView2.1.0.3965-prerelease\build\Microsoft.Web.WebView2.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

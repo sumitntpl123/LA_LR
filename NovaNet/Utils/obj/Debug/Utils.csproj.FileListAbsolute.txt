@@ -1,0 +1,159 @@
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll.config
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\NovaNet.Utils.pdb
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\Interop.ClearImage.dll
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\nControls.dll
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\DgvFilterPopup.dll
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\nControls.pdb
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\NovaNet.wfe.pdb
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll.config
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\NovaNet.Utils.AddNewUser.resources
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\Utils.frmBundleSelect.resources
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\NovaNet.Utils.frmConnection.resources
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\ImageHeaven.frmLoggedUser.resources
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\NovaNet.Utils.GetChallenge.resources
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\NovaNet.Properties.Resources.resources
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\NovaNet.Utils.PwdChange.resources
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\Utils.csproj.Up2Date
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\NovaNet.Utils.dll
+D:\Amit_Manna_Work\bzer\NovaNet\Utils\obj\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\Interop.ClearImage.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\NovaNet.Utils.AddNewUser.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\Utils.frmBundleSelect.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\NovaNet.Utils.frmConnection.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\ImageHeaven.frmLoggedUser.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\NovaNet.Utils.GetChallenge.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\NovaNet.Properties.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\NovaNet.Utils.PwdChange.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\obj\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Interop.ClearImage.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.AddNewUser.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.frmBundleSelect.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.frmConnection.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\ImageHeaven.frmLoggedUser.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.GetChallenge.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Properties.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.PwdChange.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.CopyComplete
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.Utils.pdb
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Interop.ClearImage.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.AddNewUser.resources
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.frmBundleSelect.resources
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.frmConnection.resources
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\ImageHeaven.frmLoggedUser.resources
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.GetChallenge.resources
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Properties.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.PwdChange.resources
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\Utils.csproj.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA\NovaNet\Utils\obj\Debug\NovaNet.Utils.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\NovaNet.Utils.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\Interop.ClearImage.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\NovaNet.Utils.AddNewUser.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\Utils.frmBundleSelect.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\NovaNet.Utils.frmConnection.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\ImageHeaven.frmLoggedUser.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\NovaNet.Utils.GetChallenge.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\NovaNet.Properties.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\NovaNet.Utils.PwdChange.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\Utils.csproj.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\NovaNet\Utils\obj\Debug\NovaNet.Utils.pdb

@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\bin\Debug\Fonts\NotoSerifBengali-Regular.ttf
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\bin\Debug\PhoneticBengaliInput.dll
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\bin\Debug\PhoneticBengaliInput.pdb
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.PBIComboBox.resources
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.PBIKeyboardLayoutHelp.resources
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.PBITextBox.resources
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.Properties.Resources.resources
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.dll
+C:\Users\USER\Desktop\PhoneticBengaliInput-WinForms\PhoneticBengaliInput\obj\Debug\PhoneticBengaliInput.pdb

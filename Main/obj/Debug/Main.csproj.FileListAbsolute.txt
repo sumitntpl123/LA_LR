@@ -1,0 +1,241 @@
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\bzer.exe.config
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\bzer.exe
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\bzer.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\ImageHeaven.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\NovaNet.Utils.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\NovaNet.wfe.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\nControls.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\Interop.ClearImage.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\LItems.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\Reporting.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\bzer-data-entry.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\ClearImageNet.70.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\itextsharp.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\Zen.Barcode.Core.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\DgvFilterPopup.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\PhoneticBengaliInput.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\NovaNet.Utils.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\NovaNet.Utils.dll.config
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\ImageHeaven.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\ImageHeaven.dll.config
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\NovaNet.wfe.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\NovaNet.wfe.dll.config
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\nControls.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\LItems.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\LItems.dll.config
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\Reporting.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\Reporting.dll.config
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\bzer-data-entry.pdb
+D:\Amit_Manna_Work\bzer\Main\bin\Debug\bzer-data-entry.dll.config
+D:\Amit_Manna_Work\bzer\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\Amit_Manna_Work\bzer\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Amit_Manna_Work\bzer\Main\obj\Debug\Main.csproj.GenerateResource.cache
+D:\Amit_Manna_Work\bzer\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\Amit_Manna_Work\bzer\Main\obj\Debug\Main.csproj.Up2Date
+D:\Amit_Manna_Work\bzer\Main\obj\Debug\bzer.exe
+D:\Amit_Manna_Work\bzer\Main\obj\Debug\bzer.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\bzer.exe.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\bzer.exe
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\bzer.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\ImageHeaven.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Interop.ClearImage.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\PhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\LItems.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Reporting.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\bzer-data-entry.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\ClearImageNet.70.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\itextsharp.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\ImageHeaven.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\ImageHeaven.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\LItems.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\LItems.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Reporting.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Reporting.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\bzer-data-entry.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\bzer-data-entry.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\obj\Debug\bzer.exe
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\obj\Debug\bzer.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\bzer - Copy\Main\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\bzer.exe.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\bzer.exe
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\bzer.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\ImageHeaven.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\PhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\nControls.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Interop.ClearImage.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\LItems.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Reporting.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\bzer-data-entry.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\ClearImageNet.70.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\itextsharp.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\DgvFilterPopup.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\AvroPhoneticBengaliInput.dll
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\ImageHeaven.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\ImageHeaven.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\PhoneticBengaliInput.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\nControls.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\nControls.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\LItems.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\LItems.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Reporting.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\Reporting.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\bzer-data-entry.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\bin\Debug\bzer-data-entry.dll.config
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\obj\Debug\bzer.exe
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\obj\Debug\bzer.pdb
+C:\Users\USER\Desktop\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.CopyComplete
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\bzer.exe.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\bzer.exe
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\bzer.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\ImageHeaven.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\PhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Interop.ClearImage.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\LItems.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Reporting.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\bzer-data-entry.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\ClearImageNet.70.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\itextsharp.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Zen.Barcode.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.Utils.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.Utils.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\ImageHeaven.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\ImageHeaven.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\PhoneticBengaliInput.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\LItems.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\LItems.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Reporting.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\Reporting.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\bzer-data-entry.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\bin\Debug\bzer-data-entry.dll.config
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\Main.Properties.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\Main.csproj.Up2Date
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\bzer.exe
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\bzer.pdb
+D:\SAGNIK\02-04-2026_backup\LA\Main\obj\Debug\bzer.exe.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\bzer.exe.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\bzer.exe
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\bzer.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\ImageHeaven.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\NovaNet.Utils.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\PhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\NovaNet.wfe.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\nControls.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Interop.ClearImage.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\LItems.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Reporting.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\bzer-data-entry.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\ClearImageNet.70.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\itextsharp.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Zen.Barcode.Core.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\DgvFilterPopup.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\AvroPhoneticBengaliInput.dll
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\NovaNet.Utils.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\NovaNet.Utils.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\ImageHeaven.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\ImageHeaven.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\PhoneticBengaliInput.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\NovaNet.wfe.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\NovaNet.wfe.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\nControls.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\nControls.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\LItems.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\LItems.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Reporting.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\Reporting.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\bzer-data-entry.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\bin\Debug\bzer-data-entry.dll.config
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\obj\Debug\Main.Properties.Resources.resources
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\obj\Debug\Main.csproj.GenerateResource.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\obj\Debug\bzer.exe
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\obj\Debug\bzer.pdb
+D:\SAGNIK\02-04-2026_backup\LA - Copy (2)\Main\obj\Debug\Main.csproj.CopyComplete
